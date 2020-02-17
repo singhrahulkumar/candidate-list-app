@@ -1,0 +1,62 @@
+[
+    {
+      "id":"1",
+      "name":"Rahul Kumar",
+      "email":"singh.rahul1610@gmail.com",
+      "age":"26",
+      "expereince":"2.4",
+      "position":"Developer",
+      "appliedDate":"24/05/2018",
+      "status":"Approved"
+    },
+    {
+      "id":"2",
+      "name":"Abhishek Pandey",
+      "email":"abhishek.pandey@gmail.com",
+      "age":"22",
+      "expereince":"2",
+      "position":"Developer",
+      "appliedDate":"09/12/2019",
+      "status":"Approved"
+    },
+    {
+      "id":"3",
+      "name":"Sunny Kumar",
+      "email":"sksunny096@gmail.com",
+      "age":"225",
+      "expereince":"4",
+      "position":"PO",
+      "appliedDate":"01/01/2020",
+      "status":"Rejected"
+    },
+    {
+      "id":"4",
+      "name":"Ravi Verma",
+      "email":"ravi.verma@gmail.com",
+      "age":"26",
+      "expereince":"6",
+      "position":"Backend Developer",
+      "appliedDate":"30/01/2020",
+      "status":"Rejected"
+    },
+    {
+      "id":"5",
+      "name":"Saket Sahoo",
+      "email":"saketsahoo@gmail.com",
+      "age":"31",
+      "expereince":"8",
+      "position":"Frontend Developer",
+      "appliedDate":"16/02/2020",
+      "status":"Waiting"
+    },
+    {
+      "id":"6",
+      "name":"Shubham Kumar",
+      "email":"shubhamcss55@gmail.com",
+      "age":"25",
+      "expereince":"4.5",
+      "position":"Manager",
+      "appliedDate":"17/02/2020",
+      "status":"Waiting"
+    }
+]

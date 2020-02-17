@@ -1,0 +1,7 @@
+.tab-pane{
+    border-bottom: solid 1px #a6d4fb;
+    padding: 0 0 8px;
+}
+.table>thead>tr>th {
+    border: none;
+}
